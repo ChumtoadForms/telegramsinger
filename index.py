@@ -14,6 +14,13 @@ def typesong(client, message):
 	i = 0
 	while i < 7:
 		i += 1
-		client.send_message(message.chat.id, songtext.readline())
+		client.send_message(message.chat.id, 1s)
+		client.send_message(message.chat.id, 2s)
+		client.send_message(message.chat.id, 3s)
+		client.send_message(message.chat.id, 4s)
+		client.send_message(message.chat.id, 5s)
+		client.send_message(message.chat.id, 6s)
+		client.send_message(message.chat.id, 7s)
+		client.send_message(message.chat.id, 8s)
 
 client.run()
