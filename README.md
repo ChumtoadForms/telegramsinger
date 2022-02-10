@@ -10,3 +10,5 @@
 - pip install pyrogram
 - git clone https://github.com/rogender/Telegram-UserBot-SongSinger.git
 - python Telegram-UserBot-SongSinger/index.py
+
+Чтобы от вашего лица начались писать сообщения, напишите в любом чате "Хочешь песню?" (без кавычек)
