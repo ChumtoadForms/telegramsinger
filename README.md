@@ -9,6 +9,7 @@
 - apt-get install git python -y
 - pip install pyrogram
 - git clone https://github.com/rogender/telegramsinger.git
-- python telesongsinger/index.py
+- cd telegramsinger
+- python telegramsinger/index.py
 
 Чтобы от вашего лица начались писать сообщения, напишите в любом чате "Хочешь песню?" (без кавычек)
