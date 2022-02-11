@@ -10,6 +10,6 @@
 - pip install pyrogram
 - git clone https://github.com/rogender/telegramsinger.git
 - cd telegramsinger
-- python telegramsinger/index.py
+- python index.py
 
 Чтобы от вашего лица начались писать сообщения, напишите в любом чате "Хочешь песню?" (без кавычек)
